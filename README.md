@@ -32,7 +32,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
    <a href="https://hashnode.com/@Sirkissmart"> 
      <img src="https://img.shields.io/badge/hashnode-orange?style=for-the-badge&logo=hashnode&logoColor=royalblue" alt="hashnode Badge"/> 
    </a> 
-     <a href="https://auth.geeksforgeeks.org/user/Sikissmart/practice"> 
+     <a href="https://auth.geeksforgeeks.org/user/Sirkissmart/practice"> 
      <img src="https://img.shields.io/badge/GeeksforGeeks-0F2B3C?style=for-the-badge&logo=GeeksforGeeks" alt="gfg Badge"/> 
    </a> 
      <a href="https://www.hackerrank.com/Sirkissmart"> 
@@ -77,7 +77,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  <table cellpadding="0"> 
    <tr style="padding: 0"> 
      <!-- GitHub Stats Card -->   
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Sirissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Sirkissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
      <!-- GitHub Top Language Card --> 
      <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirkissmart&layout=compact&theme=radical&custom_title=Languages"/></td> 
    </tr> 
