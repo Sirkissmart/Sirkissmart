@@ -1,4 +1,4 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Kissmart)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Sirkissmart)](https://github.com/ryo-ma/github-profile-trophy)
 <h1 align="center">
 
 Hi 👋,I'm Kissmart Tshabalala</h1> 
@@ -11,7 +11,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
 
 </picture> 
 
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=Kissmart&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=Sirkissmart&label=Profile%20visits&color=FF00FF&style=flat-square" alt="bazileros" /> </p>
 
  <h2> About Me </h2> 
 
@@ -70,32 +70,32 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  <p align="center"> 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
 
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sirkissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
  <p> 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> --> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sirkissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> --> 
 
  <table cellpadding="0"> 
    <tr style="padding: 0"> 
      <!-- GitHub Stats Card -->   
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Kissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Sirissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
      <!-- GitHub Top Language Card --> 
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kissmart&layout=compact&theme=radical&custom_title=Languages"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirkissmart&layout=compact&theme=radical&custom_title=Languages"/></td> 
    </tr> 
  </table> 
 
  <p align="center"> 
-   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kissmart&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
+   <img src="https://github-readme-streak-stats.herokuapp.com?user=Sirkissmart&&theme=dark&show_icons=true)](https://git.io/streak-stats" />  
 
  <p align="center"> 
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/> 
  </p> 
 
- <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Kissmart&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
+ <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sirkissmart&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
 
 
- [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kissmart&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)  
+ [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirkissmart&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
- <!-- [![Kissmart's GitHub | Languages Over Time](https://stats.quine.sh/Kissmart/languages-over-time?theme=dark)](https://quine.sh) --> 
+ <!-- [![Kissmart's GitHub | Languages Over Time](https://stats.quine.sh/Sirkissmart/languages-over-time?theme=dark)](https://quine.sh) --> 
 
 
 
