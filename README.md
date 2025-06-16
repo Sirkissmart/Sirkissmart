@@ -90,7 +90,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/> 
  </p> 
 
- <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sirkissmart&theme=merko)](https://github.com/chandanck22/github-readme-activity-graph) --> 
+ <!-- [![Sirkissmart's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sirkissmart&theme=merko)](https://github.com/Sirkissmart/github-readme-activity-graph) --> 
 
 
  [![Kissmart's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sirkissmart&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)  
