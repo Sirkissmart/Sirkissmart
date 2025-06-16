@@ -47,7 +47,7 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
 
  </div> 
 
- <img src="https://github.com/ArshErgon/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/> 
+ <img src="https://github.com/Sirkissmart/ArshErgon/blob/main/assets/header/lineBar.png" width="100%" height="8px"/> 
 
  <h3 align="left">Languages and Tools:</h3> 
 
