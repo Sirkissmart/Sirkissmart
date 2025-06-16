@@ -70,9 +70,9 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  <p align="center"> 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
 
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sirkissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
  <p> 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sirkissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> --> 
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> --> 
 
  <table cellpadding="0"> 
    <tr style="padding: 0"> 
