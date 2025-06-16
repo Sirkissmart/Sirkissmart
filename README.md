@@ -70,17 +70,17 @@ Hi 👋,I'm Kissmart Tshabalala</h1>
  <p align="center"> 
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
 
- <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Kissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
+ <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sirkissmart&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p> 
  <p> 
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=Kissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=Sirkissmart&show_icons=true&locale=en&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" width="410" /></p> -->
 
  
  <table cellpadding="0"> 
    <tr style="padding: 0"> 
      <!-- GitHub Stats Card -->   
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Sirkissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api?username=Kissmart&show_icons=true&theme=radical#gh-dark-mode-only"/></td> 
      <!-- GitHub Top Language Card --> 
-     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirkissmart&layout=compact&theme=radical&custom_title=Languages"/></td> 
+     <td valign="top"><img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kissmart&layout=compact&theme=radical&custom_title=Languages"/></td> 
    </tr> 
  </table> 
 
